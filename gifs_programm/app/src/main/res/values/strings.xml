@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Gifs program</string>
+
+    <string name="tab_random">Random</string>
+    <string name="tab_top">Best</string>
+    <string name="tab_latest">Last</string>
+    <string name="tab_hot">Hot</string>
+    <string name="fab_description_refresh">Refresh a gif</string>
+    <string name="fab_description_left">Back to a previous gif</string>
+    <string name="fab_description_right">Go to next gif</string>
+
+    <string name="error_gif_text">Unable to upload gif. To try again press the button at the bottom</string>
+    <string name="error_snackbar_text">Gif can not be downloaded </string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <string name="author_name">Shklyar Mike</string>
+    <string name="author_email">mishklyar@edu.hse.ru</string>
+
+    <string name="dialog_info_title">About the application</string>
+    <string name="dialog_info_close">Close</string>
+
+    <string name="menu_settings">Settings</string>
+    <string name="menu_about">About thе program</string>
+    <string name="description_image_gif">gif image</string>
+</resources>
